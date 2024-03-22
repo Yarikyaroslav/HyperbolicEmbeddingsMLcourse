@@ -21,7 +21,7 @@ The MNIST dataset consists of 70,000 tiny (28x28) grayscale images of handwritte
 
 ## Repository Structure
 - `HyperbolicCIFAR.ipynb`: Jupyter notebook containing all the experiments, analysis, and visualizations comparing hyperbolic and Euclidean embeddings for CIFAR dataset.
-- `HyperbolicMNIST.ipynb`: Jupyter notebook containing all the experiments, analysis, and visualizations comparing hyperbolic and Euclidean embeddings for MNIST dataset.
+- `Hyperbolic_on_mnist_data.ipynb`: Jupyter notebook containing all the experiments, analysis, and visualizations comparing hyperbolic and Euclidean embeddings for MNIST dataset.
 - `requirements.txt`: A list of Python dependencies required to run the code.
 
 ## Getting Started
