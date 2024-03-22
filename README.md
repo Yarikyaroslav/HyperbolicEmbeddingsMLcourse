@@ -41,9 +41,9 @@ Ensure you have Python 3.6 or later installed on your system. Additionally, to r
 
 To reproduce the experiments and analysis, simply run the respective notebooks:
 - For CIFAR dataset: `HyperbolicCIFAR.ipynb`
-- For MNIST dataset: `HyperbolicMNIST.ipynb`
+- For MNIST dataset: `Hyperbolic_on_mnist_data.ipynb`
 
-- If using a local Jupyter setup: `jupyter notebook HyperbolicCIFAR.ipynb` or `jupyter notebook HyperbolicMNIST.ipynb`
+- If using a local Jupyter setup: `jupyter notebook HyperbolicCIFAR.ipynb` or `jupyter notebook Hyperbolic_on_mnist_data.ipynb`
 - If using Google Colab, upload the notebooks and follow the Colab instructions to execute them.
 
 ## Acknowledgements
